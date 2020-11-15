@@ -38,6 +38,7 @@ public class Login implements Serializable {
 
 		System.out.println("Lütfen mail adını");
 		mail = klavye.nextLine();
+		// https://github.com/hamitmizrak/JavaDatabases.git
 
 		System.out.println("Lütfen şifrenizi adını");
 		sifre = klavye.nextLine();
