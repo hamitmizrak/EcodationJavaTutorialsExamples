@@ -1,4 +1,4 @@
-package com.ecodation.a12.jenerics;
+package com.ecodation.a012.jenerics;
 
 public class MainJenerics {
 	public static void main(String[] args) {

@@ -44,7 +44,9 @@ public class AvmMain {
 				switch (secim) {
 
 				case 1:
-					atm();
+					Atm atm = new Atm();
+					atm.giris();
+
 					break;
 
 				case 2:
@@ -162,6 +164,8 @@ public class AvmMain {
 	}
 
 	private static void atmSecim() {
+		Atm atm = new Atm();
+		atm.giris();
 
 	}
 
